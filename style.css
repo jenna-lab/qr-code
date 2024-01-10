@@ -4,11 +4,10 @@
 }
 /* Style for the main container */
 .container {
-  display: flex;
-  align-items: center;
   justify-content: center;
   background-color: hsl(212, 45%, 89%);
   height: 100vh;
+  margin: 5% 40%;
 }
 /* Style for the card container */
 .card {
@@ -20,11 +19,6 @@
 
 }
 
-.card-content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
 .img {
   height: 300px;
   width: 280px;
