@@ -19,7 +19,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Live Demo
 
-You can view a live demo of this QR code component [here]().
+You can view a live demo of this QR code component [here](https://jenna-lab.github.io/qr-code/).
 
 
 ### Built With
@@ -46,8 +46,7 @@ In future projects, I plan to focus on the following:
 
 ## Author
 
-- [Your Name](https://github.com/jenna-lab)
-- Frontend Mentor Profile - [@yourusername](https://www.frontendmentor.io/profile/jenna-lab)
+Jennifer Sammy
 
 ## Acknowledgments
 
