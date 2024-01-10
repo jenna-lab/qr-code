@@ -2,14 +2,14 @@
   margin: 0;
   padding: 0;
 }
-/* Style for the main container */
+/* main container */
 .container {
   justify-content: center;
   background-color: hsl(212, 45%, 89%);
   height: 100vh;
   margin: 5% 40%;
 }
-/* Style for the card container */
+/* card container */
 .card {
   background-color: hsl(0, 0%, 100%);
   height: 480px;
